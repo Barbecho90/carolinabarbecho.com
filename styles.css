@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.intro-text{
+	text-align: center;
+	height: 15vh;
+}
+.intro-photo{
+	text-align: center;
+	height: 85vh;
+}
+.intro-photo img{
+	max-height: 100%;
+}
+
+header{
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
