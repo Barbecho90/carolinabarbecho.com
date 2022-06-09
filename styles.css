@@ -19,3 +19,29 @@ header{
 	display: flex;
 	flex-direction: column;
 }
+.profile-photo{
+	border-radius: 50%;
+	margin: 0;
+	width:200px;
+
+}
+.marcaDeAgua{
+	width: 100%;
+	height: auto;
+	padding: 0;
+	filter:alpha(opacity=90);
+	position: relative;
+	opacity:0.4;
+}
+
+.kyle-test{
+	background-image: url('img/heroImage.jpg');
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
