@@ -1,0 +1,86 @@
+* { margin: 0; padding: 0; }
+.wrapper{
+  color: rgb(150, 150, 150);
+  width: 100%;
+  height: 95%;
+}
+header {
+  background: rgb(16, 16, 233);
+  height: 9vh;
+  width: 100%;
+  padding-bottom: 0.5rem;
+}
+
+.container {
+  display: flex;
+  height: 85vh;
+}
+
+aside {
+  background: rgb(224, 221, 221);
+  width: 30%;
+  line-height: 4em;
+  font-weight: bold;
+  font-size: 1.1em;
+  text-align: center;
+  padding-left: 0.9rem;
+  color: rgb(54, 54, 54);
+}
+
+section {
+  background: rgb(248, 244, 244);
+  width: 70%;
+}
+
+footer {
+  background: rgb(160, 152, 152);
+  height: 7.5vh;
+  width: 100%;
+}
+
+.center {
+  text-align: center;
+  line-height: 4em;
+  font-weight: bold;
+  color: rgb(73, 73, 73);
+  font-size: 1.1em;
+  width: 70%;
+  font-weight: bold;
+}
+
+.left{
+  text-align: left;
+  line-height: 2em;
+  font-family: Verdana;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+  font-weight: bold;
+  padding: 3rem;
+  border: rgb(245, 241, 240);
+}
+
+.profile-photo {
+  border-radius: 50%;
+  width: 100px;
+  padding-left: 10rem ;
+}
+.ProfilePhotoContainer {
+  display: flex;
+  width: 60%;
+  padding-left: 0.5rem;
+  
+}
+div.l{
+  text-align: left;
+  padding-left: 75rem;
+}
+p{
+  padding-top: 1em;
+  text-indent: 50px;
+  padding-bottom: 3rem;
+  text-align: left;
+  color: rgb(75, 74, 74);
+  width: auto;
+  line-height: normal;
+
+}
